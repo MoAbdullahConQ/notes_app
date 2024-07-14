@@ -12,7 +12,11 @@ class NotesApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(brightness: Brightness.dark,scaffoldBackgroundColor: Color(0xff323232)),
+      theme: ThemeData(
+        brightness: Brightness.dark,
+        scaffoldBackgroundColor: Color(0xff323232),
+        fontFamily: 'Poppins',
+      ),
       home: const NotesView(),
     );
   }
