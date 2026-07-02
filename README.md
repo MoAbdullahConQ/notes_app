@@ -9,7 +9,11 @@ A minimal, dark-themed notes app built with Flutter. Notes are stored locally on
 
 ## Demo
 
-▶️ [Watch the demo](https://youtube.com/shorts/ZlLOA-F6MpE)
+<a href="https://youtube.com/shorts/ZlLOA-F6MpE">
+  <img src="https://img.youtube.com/vi/ZlLOA-F6MpE/maxresdefault.jpg" width="600">
+</a>
+
+*Click the thumbnail above to watch the app in action or click here* ▶️ [Watch the demo](https://youtube.com/shorts/ZlLOA-F6MpE)
 
 ## Features
 
